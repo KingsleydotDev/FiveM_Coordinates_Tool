@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\bin\Debug\FiveM META TOOL.exe.config
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\bin\Debug\FiveM META TOOL.exe
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\bin\Debug\FiveM META TOOL.pdb
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\obj\Debug\FiveM META TOOL.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\obj\Debug\FiveM_META_TOOL.Form1.resources
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\obj\Debug\FiveM_META_TOOL.Properties.Resources.resources
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\obj\Debug\FiveM META TOOL.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\obj\Debug\FiveM META TOOL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\obj\Debug\FiveM META TOOL.exe
+C:\Users\USER\source\repos\FiveM META TOOL\FiveM META TOOL\obj\Debug\FiveM META TOOL.pdb
